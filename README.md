@@ -4,9 +4,9 @@ There are two .exe files in this repository.
 the batch file provided will run both of them.
 ## Generate.exe
 This one will generate the words randomly from a given text file, as you can see in the batch file the syntax from commandline is 
-''''
+````
 Generate.exe <path\filename> <delay-in-seconds>
-''''
+````
 this one will generate the words, display them in console, as well as make two files for word and meaning seperately inside the Couple folder which is then used by the DesktopApp1 to display, you can also use third party apps like [rainmeter](https://github.com/rainmeter/rainmeter) to display those words in your style. 
 ## DesktopApp1.exe
 Was too lazy to even make a new project with name, so i just modified my first c# project on Visual sudio to read two files inside of the couple folder then display them.
