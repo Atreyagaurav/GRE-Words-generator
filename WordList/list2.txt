@@ -1,121 +1,60 @@
-aberration	straying away from what is normal      
-abhor	to hate to detest        
-abide	be faithful to endure        
-abscond	Run away; usually includes taking something along, in hiding, decamp, absquatulate
 abstemious	Sparing in consumption of especially food and drink
 abysmal	bottomless extreme          
 acclaimed	welcomed with shouts and approval       
-adorn	add beauty decorate         
-adulterate	make something impure by mixing inferior substance, corrupt, debase
-aesthetic	concerning or characterized by an appreciation of beauty or good taste
-aggregate	sum total of many heterogenous things taken together
-alleviate	make (pain) easier to bear       
 alliteration	use of the same consonant at the beginning of each stressed syllable in a line of verse
-ambiguous	doubtful uncertain          
-amnesty	a pardon, warrant granting release from punishment for an offense
-anarchy	state of lawlessness and disorder
-anguish	severe suffering        
-anomalous	Deviating from the general or common order or type
-antipathy	A feeling of intense dislike, object of a feeling of intense aversion
 apartheid	brutal racial discrimination         
-apathy	absence of emotion or enthusiasm
-appease	make quiet or calm        
 arduous	steep difficult ascent laborious        
-arrogance	proud superior manner of behaviour       
 articulate	speak distinctly connect by joints       
-artless	simple and natural; without cunning or deceit
 ascertain	get to know         
 assail	with attack violently         
-audacious	daring foolishly bold impudent        
-autonomous	existing as an independent entity
-auxiliary	helping supporting          
-bask	in enjoy warmth and light       
 beleaguer	annoy persistently ; surround so as to force to give up, overwhelm
-benefactor	person who has given help       
-beneficent	generous in assistance to the poor, doing good
-benign	kind and gentle mild (climate)       
 bigot	stubborn narrow-minded person         
 blandness	polite manner comforting uninteresting        
 blatant	noisy and rough         
 boisterous	loud noisy rough lacking restraint       
-bolster	support
 bombastic	pompous, ostentatiously lofty in style
 brash	hasty rush cheeky saucy        
-buttress	support usually of stone or brick; supports the wall of a building
 candid	frank straight-forward          
 cantankerous	bad-tempered/quarrelsome         
 canvass	discuss thoroughly sort of touting       
 cataclysm	a sudden violent change in the earth's surface, catastrophe, calamity
-catalyst	something that causes an important event to happen
 chauvinist	a blindly devoted patriot        
 coax	get somebody to do something by kindness     
-coerce	compel to force to make obedient      
-compliant	disposed or willing to comply
 conciliatory	reconciling soothing comforting mollifying        
 concur	agree in opinion happen together       
-condense	increase in density strength make laconic      
 condone	forgive           
-connoisseur	An expert able to appreciate a field; especially in the fine arts, cognoscenti
 connotation	suggestion in addition to        
 consequential	having important issues or results, eventful
-console	give comfort or sympathy to       
 conspicuous	easily seen remarkable         
-constrain	compel         
-constrict	make tight or smaller        
 contemporary	characteristic of the present, occurring in the same period of time, coeval
 contention	a point asserted as part of an argument
 cordon	line (of police acting as a guard)     
 covert	disguised, clandestine, surreptitious, furtive     
 credulity	too great a readiness to believe things     
 credulous	ready to believe things        
-cryptic	secret with a hidden meaning       
 cumbersome	burdensome heavy and awkward to carry      
 curtail	make shorter then was planned       
 daunt	intimidate make fearful         
-decree	order given by authority        
-default	loss due to not showing up ; option that is selected automatically
-defer	postpone give way (to show respect)      
-derision	ridicule mockery deriding         
-derivative	a word that is derived from another word
 derogatory	insulting tending to damage        
-despicable	(despise) worthy only of being despised and rejected, morally reprehensible
 despondent	deppressed
 deter / deterrent	discourage / Something immaterial that interferes with or delays action or progress
-dexterity	skill (esp. in handling)        
-diffuse	move outward
-discredit	state of being held in low esteem, damage the reputation of
 discreet	marked by prudence or modesty and wise self-restraint, reserved, prudent
-discrete	individually distinct        
 dismal	sad gloomy miserable         
 dissolution	disintegration looseness in morals        
 dissonance	conflict of people's opinions or actions or characters ; disagreeable sounds
 distraught	distracted violently upset in mind       
-divergence	getting farther apart from a point      
-dogmatic	positive certain arbitrary without room for discussion     
-dubious	of doubtful nature, uncertain
 dud	no use person something that fails      
 dupe	cheat make a fool of       
 duplicity	deliberate deception          
 elicit	draw out          
 eloquence	fluent speaking skillful use of language      
 embezzle	use in a wrong way for one's own benefit   
-empirical	relying on experiment         
 endorse	write one's name on the back of     
-enduring	lasting           
-engulf	swallow up          
-enigma	something that is puzzling        
-entice	tempt or persuade       
-enzyme	catalyst           
 eulogy	formal, praise, panegyric, encomium
-euphemism	an inoffensive expression that is substituted for one that is considered offensive
-euphoria	elation state of pleasant excitement       
 euthanasia	easy and painless death        
-evasive	tending to evade       
 evoke	call up bring out        
 exculpate	to clear from a charge of guilt     
 exonerate	to set somebody clear free (e.g.. from blame), absolve
-extrapolate	to estimate future variables based on past data
-facilitate	make easier
 falter	waver/move in an uncertain manner     
 finesse	delicate way of dealing with a situation     
 finical	too fussy about food clothing etc.      
@@ -133,8 +72,6 @@ fret	worry irritation wear away
 frugal	careful spender, economical, thrifty, stinting 
 glimmer	weak/unsteady light        
 gorge	eat greedily/narrow opening with a stream    
-grave	serious requiring consideration         
-graze	touch or scrape lightly in passing    
 grievous	causing grief or pain serious dire grave     
 guile	deceit cunning          
 gush	burst out suddenly/talk ardently      
@@ -143,35 +80,22 @@ haughty	arrogant conceited
 heed	attention/give notice to       
 heinous	odious (of crime)         
 heresy	belief contrary or violation of what is generally accepted dogma 
-hoax	mischievous trick played on somebody for a joke    
 hollow	not soled with hole        
-idolatry / ous	excessive admiration of         
 illicit	unlawful forbidden          
-imbibe	absorb, assimilate
-impair	worsen diminish in value        
-impassive	unmoved feeling no sign of passion      
 impeccable	without fault or error ; Not capable of sin, immaculate
 imperative	urgent essential          
-impermeable	that cannot be permeated        
 imperturbable	calm not capable of being excited      
-impervious	not allowing to pass through (of materials)     
 imperviousness	haughty arrogant commanding         
 implacable	incapable of being placated, unpleasable       
-implicit	implied though not plainly expressed       
-implode	burst inward
-incense	make angry          
 incessant	often repeated continual         
 incite	stir up rouse         
 incongruous	out of place not in harmony or agreement    
 incorrigibility	cannot be cured or corrected       
 incredulous	skeptical unwilling to believe        
 inculcate	fix firmly by repetition        
-indeterminate	not capable of being determined ; of uncertain or ambiguous nature
-indigenous	native           
 indistinct	not easily heard seen clearly marked      
 ingenious	simplistic but brilliant
 ingenuous	naive young artless frank honest sincere      
-ingest	take in by swallowing        
 inscrutable	incapable of being discovered or understood, illegible
 insensible	unconscious unresponsive unaffected         
 insinuate	suggest unpleasantly make a way for something gently    
@@ -184,54 +108,28 @@ jabber	talk excitedly utter rapidly
 jibe	gibe make fun of        
 judicious	sound in judgment wise        
 knit	draw together unite firmly        
-lackluster	(of eyes) dull         
-latent	present but not yet active developed or visible    
 laud/laudatory	praise/expressing or giving praise        
-legacy	something handed down from ancestors, inheritance, bequest
-lethargic	Deficient in alertness or activity
-liberality	free giving generosity         
 litigate	engage in legal proceedings ; press charges against, sue
 ludicrous	funny and ridiculous, laughable, preposterous, farcical
 lull	become quiet or less active       
-luminary	star light-giving body         
 lurk	be out of view ready to attack   
-lustrous	being bright polished         
-malign	injurious speak ill of somebody tell lie     
-malleable	yielding easily shaped moldable adapting       
 martial	associated with war and armed forces
-mediocre	ordinary, commonplace
-metamorphose	to change from form to another
 mnemonic	aid to memory
-morose	ill-tempered, unsocial          
-mundane	worldly as opposed to spiritual, commonplace, everyday     
 myriad	very great number         
-nascent	coming into existence emerging        
-negate	be in contradiction with ; prove negative; show to be false
-noxious	harmful           
-obliterate	destroy completely ; do away with completely, without leaving a trace
-oblivious	unaware, having no memory        
 obstinate	stubborn, uncompromising
 odor	smell favor reputation         
 overhaul	examine thoroughly to learn about the condition     
 parenthesis	sentence within another one something separated      
 pedestrian	commonplace trite unremarkable         
 perilous	dangerous           
-peripheral	pertaining to the outer region of something opposed to the core
-perish	be destroyed decay         
 permeate	spread into every part of       
 perpetrate	be guilty commit (a crime)       
-perrenial	recurrent throught, occuring repeatedly or forever
-placate	soothe pacify calm         
-plummet	fall plunge steeply         
 plunge	move quickly suddenly and with force      
 pragmatic	practical rather than idealistic
 predominate	have more power than others       
 prodigal	wasteful reckless with money        
 profess	declare
-profound	showing intellectual penetration or emotional depths; from the depths of your being
 profuse	abundant/lavish         
-prone	prostrate inclined to (undesirable things)       
-propagation	increasing the number spreading extending       
 propriety	correct or appropriate behavior
 prosaic	everyday, mundane, commonplace, trite, pedestrian       
 proxy	a person authorized to act for another
@@ -241,27 +139,19 @@ redeem	get back by payment, compensate
 refute	disprove, to successfully argue against
 reiterate	say or do again several times      
 render	cause to become ; pass down ; show in, or as in, a picture ; pass down ; give back
-resilience	quality of quickly recovering the original shape     
 resort	to frequently visit         
 roll	call calling of names        
 ruffian	violent cruel man         
 ruse	a deceptive maneuver (especially to avoid capture)
 sanction	approval (by authority) penalty        
-savor	taste flavor something         
 secular	material (not spiritual) living outside monasteries      
-sever	break off        
 severance	severing           
-shallow	little depth not earnest        
-shrill	sharp piercing          
 shun	keep away from, avoid        
 slate	propose, criticize      
 sloth	habitual laziness, indolence
 sober	self-controlled           
 sobriety	quality or condition of being sober      
 sparse	thin; not dense
-sporadic	marked by irregular intervals, scattered, antonym of intermittent
-spurious	lacking authenticity, counterfeit
-stigma	mark of shame or disgrace       
 stingy	spending or  using unwillingly         
 stipulate	state or put forward as a necessary condition    
 streak	long thin move very fast       
@@ -273,17 +163,12 @@ surcharge	additional load/charge
 sycophant	person who flatters the rich and powerful, ASS-LICKER
 tassel	bunch of threads       
 temperate	showing self-control          
-torment	severe pain or suffering        
-torque	twisting force causing rotation      
 transgress	break go beyond (a limit)       
-transient	temporary fleeting          
-trepidation	alarm excited state of mind, fearful    
 turquoise	greenish-blue precious stone       
 ubiquitous	present everywhere        
 ulterior	situated beyond          
 undermine	weaken gradually at the base make something under    
 unscathed	unharmed unhurt          
-vain	without use result conceited        
 valiant	brave           
 valorous	brave           
 vex	annoy distress trouble         
@@ -293,8 +178,6 @@ vigorous	strong energetic
 vindictive	having a desire to revenge       
 viscid / viscous	having the properties of glue, mucilaginous / relatively high resistance to flow
 vivacious	lively high-spirited          
-volatile	changeable, inconstant, fickle, unstable, explosive       
 warrant	authority written order guarantee        
 waver	move to and fro
-whimsical	full of odd and fanciful ideas      
 woo	try to win         

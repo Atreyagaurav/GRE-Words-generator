@@ -292,3 +292,118 @@ dendroid	adj. Like a tree
 incise	engrave make a cut in       
 lewd	adj. Characterized by lust or lasciviousness
 aberration	n. Deviation from a right, customary, or prescribed course
+aberration	straying away from what is normal      
+abhor	to hate to detest        
+adorn	add beauty decorate         
+adulterate	make something impure by mixing inferior substance, corrupt, debase
+aesthetic	concerning or characterized by an appreciation of beauty or good taste
+aggregate	sum total of many heterogenous things taken together
+alleviate	make (pain) easier to bear       
+ambiguous	doubtful uncertain          
+amnesty	a pardon, warrant granting release from punishment for an offense
+anarchy	state of lawlessness and disorder
+anguish	severe suffering        
+anomalous	Deviating from the general or common order or type
+antipathy	A feeling of intense dislike, object of a feeling of intense aversion
+apathy	absence of emotion or enthusiasm
+appease	make quiet or calm        
+arrogance	proud superior manner of behaviour       
+artless	simple and natural; without cunning or deceit
+audacious	daring foolishly bold impudent        
+autonomous	existing as an independent entity
+auxiliary	helping supporting          
+bask	in enjoy warmth and light       
+benefactor	person who has given help       
+beneficent	generous in assistance to the poor, doing good
+benign	kind and gentle mild (climate)       
+bolster	support
+buttress	support usually of stone or brick; supports the wall of a building
+catalyst	something that causes an important event to happen
+coerce	compel to force to make obedient      
+compliant	disposed or willing to comply
+condense	increase in density strength make laconic      
+connoisseur	An expert able to appreciate a field; especially in the fine arts, cognoscenti
+console	give comfort or sympathy to       
+constrain	compel         
+constrict	make tight or smaller        
+cryptic	secret with a hidden meaning       
+decree	order given by authority        
+default	loss due to not showing up ; option that is selected automatically
+defer	postpone give way (to show respect)      
+derision	ridicule mockery deriding         
+derivative	a word that is derived from another word
+despicable	(despise) worthy only of being despised and rejected, morally reprehensible
+dexterity	skill (esp. in handling)        
+diffuse	move outward
+discredit	state of being held in low esteem, damage the reputation of
+discrete	individually distinct        
+divergence	getting farther apart from a point      
+dogmatic	positive certain arbitrary without room for discussion     
+dubious	of doubtful nature, uncertain
+empirical	relying on experiment         
+enduring	lasting           
+engulf	swallow up          
+enigma	something that is puzzling        
+entice	tempt or persuade       
+enzyme	catalyst           
+euphemism	an inoffensive expression that is substituted for one that is considered offensive
+euphoria	elation state of pleasant excitement       
+evasive	tending to evade       
+extrapolate	to estimate future variables based on past data
+facilitate	make easier
+grave	serious requiring consideration         
+graze	touch or scrape lightly in passing    
+hoax	mischievous trick played on somebody for a joke    
+idolatry / ous	excessive admiration of         
+imbibe	absorb, assimilate
+impair	worsen diminish in value        
+impassive	unmoved feeling no sign of passion      
+impermeable	that cannot be permeated        
+impervious	not allowing to pass through (of materials)     
+implicit	implied though not plainly expressed       
+implode	burst inward
+incense	make angry          
+indeterminate	not capable of being determined ; of uncertain or ambiguous nature
+indigenous	native           
+ingest	take in by swallowing        
+lackluster	(of eyes) dull         
+latent	present but not yet active developed or visible    
+legacy	something handed down from ancestors, inheritance, bequest
+lethargic	Deficient in alertness or activity
+liberality	free giving generosity         
+luminary	star light-giving body         
+lustrous	being bright polished         
+malign	injurious speak ill of somebody tell lie     
+malleable	yielding easily shaped moldable adapting       
+mediocre	ordinary, commonplace
+metamorphose	to change from form to another
+morose	ill-tempered, unsocial          
+mundane	worldly as opposed to spiritual, commonplace, everyday     
+nascent	coming into existence emerging        
+negate	be in contradiction with ; prove negative; show to be false
+noxious	harmful           
+obliterate	destroy completely ; do away with completely, without leaving a trace
+oblivious	unaware, having no memory        
+peripheral	pertaining to the outer region of something opposed to the core
+perish	be destroyed decay         
+perrenial	recurrent throught, occuring repeatedly or forever
+placate	soothe pacify calm         
+plummet	fall plunge steeply         
+profound	showing intellectual penetration or emotional depths; from the depths of your being
+prone	prostrate inclined to (undesirable things)       
+propagation	increasing the number spreading extending       
+resilience	quality of quickly recovering the original shape     
+savor	taste flavor something         
+sever	break off        
+shallow	little depth not earnest        
+shrill	sharp piercing          
+sporadic	marked by irregular intervals, scattered, antonym of intermittent
+spurious	lacking authenticity, counterfeit
+stigma	mark of shame or disgrace       
+torment	severe pain or suffering        
+torque	twisting force causing rotation      
+transient	temporary fleeting          
+trepidation	alarm excited state of mind, fearful    
+vain	without use result conceited        
+volatile	changeable, inconstant, fickle, unstable, explosive       
+whimsical	full of odd and fanciful ideas      
