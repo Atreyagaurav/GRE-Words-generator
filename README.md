@@ -2,6 +2,7 @@
 Display random words from a file.  first open GRE-words.exe, then desktopapp1.exe for display
 There are two .exe files in this repository. 
 the batch file provided will run both of them.
+* After you open the start.bat type the name of the list without extension and enter delay seconds to finish setup.
 ## Generate.exe
 This one will generate the words randomly from a given text file, as you can see in the batch file the syntax from commandline is 
 ````
