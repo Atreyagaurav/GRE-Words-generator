@@ -2,7 +2,7 @@
 color a
 title "GRE Words Generator Initialization"
 Dir WordList\*.txt
-set /p name="Enter the name of the file inside the WordList folder:"
+set /p name="Enter the name of the file inside the WordList folder<.txt not required>:"
 set /p delay="Enter Delay in seconds:"
 set name=Wordlist\%name%.txt
 start "" "Generate.exe" %name% %delay%
