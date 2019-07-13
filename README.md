@@ -3,6 +3,8 @@ Display random words from a file.  first open GRE-words.exe, then desktopapp1.ex
 There are two .exe files in this repository. 
 the batch file provided will run both of them.
 * After you open the start.bat type the name of the list without extension and enter delay seconds to finish setup.
+* To close: close the generator file normally, the overlayed display can be closed from the taskbar, or from task manager is other things fail.
+* There is excel file named "Listen" inside the Couple folder, if you open it it'll pronounce the words and meanings repeatedly, press Esc while in the workbook, then close it.
 ## Generate.exe
 This one will generate the words randomly from a given text file, as you can see in the batch file the syntax from commandline is 
 ````
